@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-306,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF bop"
+		},
+		{
+			"offsets": [
+				-339,
+				339
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GFdown"
+		},
+		{
+			"offsets": [
+				-356,
+				523
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GFup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				427
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GFright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-322,
+				441
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GFleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sharnotv",
+	"position": [
+		-320,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		340,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
